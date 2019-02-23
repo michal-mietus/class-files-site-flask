@@ -1,0 +1,5 @@
+instance/config.py
+__pycache__
+migrations/alembic.ini
+migrations/env.py
+migrations/script.py.mako
